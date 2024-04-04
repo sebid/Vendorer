@@ -1,3 +1,7 @@
+## Archived as of 04/04/2024
+I have switched to a new addon that fulfills these needs, https://www.curseforge.com/wow/addons/krowi-extended-vendor-ui
+
+
 # Vendorer
 Vendorer the NPC merchant improvement addon for World of Warcraft.
 
